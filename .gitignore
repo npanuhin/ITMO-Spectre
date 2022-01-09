@@ -1,0 +1,5 @@
+# Cache
+*.exe
+
+# Tests
+FOCtests/

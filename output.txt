@@ -1,0 +1,9 @@
+Reading 7 bytes:
+Reading 0x9FD718... Success: 0x4D='M' hits=3
+Reading 0x9FD719... Success: 0x59='Y' hits=3
+Reading 0x9FD71A... Success: 0x20=' ' hits=3
+Reading 0x9FD71B... Success: 0x54='T' hits=3
+Reading 0x9FD71C... Success: 0x45='E' hits=3
+Reading 0x9FD71D... Success: 0x58='X' hits=3
+Reading 0x9FD71E... Success: 0x54='T' hits=3
+MY TEXT
